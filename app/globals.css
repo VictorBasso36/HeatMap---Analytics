@@ -56,12 +56,7 @@ body {
 body {
   background-image: url('https://i.pinimg.com/originals/08/29/ac/0829ac0df3fbf9779e0e68d0d6a94e3a.png');
   color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+ 
 }
 
 a {
