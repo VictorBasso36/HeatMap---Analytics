@@ -1,6 +1,1 @@
-[submodule "public/HeatMap-Analytics-Pixel"]
-	path = public/HeatMap-Analytics-Pixel
-	url = https://github.com/VictorBasso36/HeatMap-Analytics-Pixel.git
-[submodule "HeatMap-Analytics-Pixel"]
-	path = HeatMap-Analytics-Pixel
-	url = https://github.com/VictorBasso36/HeatMap-Analytics-Pixel.git
+
